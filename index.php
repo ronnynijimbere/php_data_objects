@@ -1,7 +1,7 @@
 <?php 
     $host = 'localhost';
     $user = 'root';
-    $password = 'jimbere21';
+    $password = 'test1111';
     $dbname = 'pdoposts';
 
     //Set DSN (data source name)
